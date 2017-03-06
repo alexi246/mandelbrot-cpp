@@ -1,5 +1,6 @@
 # mandelbrot-cpp
 Mandelbrot fractal from the advanced C++ course on Udemy
+
 Instructor - John Purcell
 
 Simply run make in the project directory and make clean to remove all object files.
